@@ -1,0 +1,14 @@
+{
+  "title": "Publicly cleared OmniRoute skill subset",
+  "upstream_repository": "diegosouzapw/OmniRoute",
+  "upstream_url": "https://github.com/diegosouzapw/OmniRoute",
+  "upstream_commit": "7510677f2f8f5317f1947284dab650d01333915d",
+  "upstream_license": "MIT",
+  "upstream_license_file": "OMNIROUTE-LICENSE-MIT.txt",
+  "upstream_third_party_notices": "OMNIROUTE-THIRD-PARTY-NOTICES.md",
+  "packages_included": [
+    "ponytail"
+  ],
+  "package_count": 1,
+  "scope_note": "Only screened-eligible skill folders from the pinned upstream skills subtree are included. No repository-specific recommendations or private-catalog archive is included."
+}
